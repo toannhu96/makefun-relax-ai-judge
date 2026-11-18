@@ -8,15 +8,17 @@ OUTPUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 TEXT = "\n".join(
     [
-        "The kettle ticks as it cools. Nobody is waiting for it.",
-        "Outside a bicycle goes past, then the quiet comes back and sits down",
-        "on the step beside the boots.",
-        "There is a blue chair in the corner, one cushion worn thin at the edge,",
-        "and a window letting the evening in a little at a time.",
-        "A dog sighs once from another room and settles.",
-        "The bread on the counter is still warm. The towel is still damp.",
-        "Nothing here needs deciding tonight.",
-        "The long breath you just took is enough.",
+        "Late afternoon. The kettle has stopped ticking.",
+        "Someone left the back door open an inch,",
+        "and the air coming through smells of cut grass and warm stone.",
+        "On the sill, a jar of pencils leans into its own shadow.",
+        "A pear sits in the bowl, going a little softer, in no hurry.",
+        "Down the lane a gate swings once and doesn't quite close.",
+        "The cat is asleep on the folded laundry, one paw over her nose.",
+        "The light crosses the floorboards slowly,",
+        "the way it has every day in this house,",
+        "reaching the rug, then the edge of the rug,",
+        "then staying there.",
     ]
 )
 
